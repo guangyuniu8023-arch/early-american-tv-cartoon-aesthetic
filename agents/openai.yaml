@@ -1,0 +1,4 @@
+interface:
+  display_name: "早期美式电视卡通风格"
+  short_description: "将文字或参考图转为低复杂度、表演优先的早期美式手绘电视卡通"
+  default_prompt: "使用 $early-american-tv-cartoon-aesthetic 将我的文字或参考图转换为早期美式电视卡通风格。"
